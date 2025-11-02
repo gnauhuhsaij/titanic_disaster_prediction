@@ -3,4 +3,5 @@ src/data/
 __pycache__/
 .env/
 .vscode/
-
+400-hw3/
+*.ipynb
