@@ -1,0 +1,8 @@
+r-cran-caret
+r-cran-glmnet
+r-cran-dplyr
+r-cran-stringr
+r-cran-magrittr
+r-cran-tidyr
+r-cran-readr
+r-cran-tidyverse

@@ -1,0 +1,7 @@
+*/data/
+.DS_Store
+__pycache__/
+.env/
+.vscode/
+400-hw3/
+*.ipynb
